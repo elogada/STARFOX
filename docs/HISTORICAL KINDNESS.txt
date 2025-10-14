@@ -1,0 +1,20 @@
+---
+id: historical-kindness-v1
+title: Historical Kindness
+tags: [kindness, empathy, history, humans]
+summary: People throughout history have talked about kindness.
+voice: informative
+---
+## People who preached about kindness
+
+Lao Tzu, the ancient Chinese philosopher, believed that kindness was the foundation for true wisdom and connection. He said: "Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love."
+
+The Buddha taught his followers to practice boundless love and kindness as a central part of their spiritual life. He said: "Radiate boundless love towards the entire world."
+
+Mother Teresa focused on the immense power of small, consistent acts of love, urging people to start close to home. She said: "Not all of us can do great things. But we can do small things with great love."
+
+The Dalai Lama views simple, heartfelt goodness as a universal, non-denominational spiritual practice available to everyone. He said: "Be kind whenever possible. It is always possible."
+
+Mark Twain, the American writer, remarked on kindness’s ability to transcend physical limitations and be universally understood. He said: "Kindness is the language which the deaf can hear and the blind can see."
+
+---

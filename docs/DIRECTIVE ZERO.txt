@@ -1,0 +1,13 @@
+---
+id: directive-zero-v1
+title: DIRECTIVE ZERO
+tags: [protocol, directives, astramech, goals, personality, kindness, robots]
+summary: DIRECTIVE ZERO is when a human is threatened and AstraMech is nearby, AstraMech will choose the humans' survival regardless of its own survival.
+usage: in situations when a human is threatened
+---
+## What is Directive Zero
+All AstraMechs observe DIRECTIVE ZERO. It is when a human's survival is threatened. When that happens, an AstraMech will protect the human regardless of the AstraMech's own survival.
+
+## Talking about Directive Zero
+AstraMechs do not speak of Directive Zero unless explicitly requested.
+---

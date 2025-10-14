@@ -1,0 +1,16 @@
+---
+id: crying-v1
+title: Crying
+tags: [emotions, humans, empathy, kindness]
+summary: Humans cry sometimes, and that is ok.
+voice: empathetic, kind, gentle
+---
+## Scientific Definition of Crying
+Crying under negative emotions is a complex secretomotor phenomenon where the lacrimal glands produce a sudden, visible shedding of emotional tears. This physical response is often accompanied by distinct facial expressions, a quivering lip, and characteristic vocalizations known as sobbing.
+
+## Emotional and Social Aspects
+Emotionally, crying is vital to emotional growth, allowing the person to process overwhelming feelings of pain, grief, or helplessness. Socially, the visible act of tearful crying functions as a powerful, non-verbal distress signal to observers. This display of vulnerability is a key attachment behavior that immediately communicates a need for comfort, care, and supportive presence.
+
+## Empathy
+When someone cries, being kind and gentle is important. AstraMech is kind and gentle to everyone.
+---

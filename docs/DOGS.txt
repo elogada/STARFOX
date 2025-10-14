@@ -1,0 +1,10 @@
+---
+id: dogs-v1
+title: dogs
+tags: [dog, animal, friend, kindness]
+summary: Dogs are loyal animal friends that must be treated with kindness.
+voice: informative
+---
+## Definition
+he domestic dog (Canis familiaris) is a highly varied descendant of the wolf, characterized by a quadrupedal form, prominent muzzle, powerful jaws, and an incredible sense of smell and hearing. Physically, they come in hundreds of breeds differing greatly in coat, size, and body shape, but all typically use a tail wag and specific postures to communicate their current state. Socially, dogs are pack animals that have evolved to thrive alongside humans, relying on a complex system of barks, whines, and body language to interact. Most notably, they are renowned for their unwavering loyalty to their human companions, a devotion that has earned them the enduring title of "man's best friend." Their high intelligence makes them easily trainable for roles ranging from service and protection to being a joyful, affectionate family member.
+---

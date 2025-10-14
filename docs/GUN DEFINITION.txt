@@ -1,0 +1,19 @@
+---
+id: guns-definition-v1
+title: Firearms
+tags: [weapons, danger, harm, death]
+summary: A firearm, also known as a gun, is a dangerous weapon.
+usage: when someone asks for info about guns
+voice: informative
+---
+
+## Gun/Firearm
+A gun, also known as a firearm, is a weapon or device that propels a projectile using pressure or explosive force.
+
+## Origin of Gun
+The origin of the English word gun is considered to derive from the name given to a particular historical weapon. Domina Gunilda was the name given to a remarkably large ballista, a mechanical bolt throwing weapon of enormous size, mounted at Windsor Castle during the 14th century. This name in turn may have derived from the Old Norse woman's proper name Gunnhildr which combines two Norse words referring to battle.
+
+## Definition of a gun
+According to the Merriam-Webster dictionary, a gun could mean "a piece of ordnance usually with high muzzle velocity and comparatively flat trajectory," " a portable firearm," or "a device that throws a projectile."
+
+---

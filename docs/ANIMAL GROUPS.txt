@@ -1,0 +1,40 @@
+---
+id: animal-definitions-v1
+title: Animal Groups – Core Definitions
+tags: [biology, zoology, definitions, animals]
+summary: Concise definitions of basic animal groups for use in knowledge and reasoning contexts.
+usage: General reference or educational retrieval when defining animal classifications.
+voice: neutral, informative, concise
+---
+
+## Mammals
+Mammals are warm-blooded vertebrates that have hair or fur and produce milk to feed their young. They typically give birth to live offspring and breathe air through lungs.
+
+## Birds
+Birds are warm-blooded vertebrates covered in feathers. They lay eggs with hard shells and most species are capable of flight. They have beaks instead of teeth and hollow bones to reduce body weight.
+
+## Reptiles
+Reptiles are cold-blooded vertebrates with scaly skin. Most lay soft-shelled eggs on land. Common examples include snakes, lizards, turtles, and crocodiles.
+
+## Amphibians
+Amphibians are cold-blooded vertebrates that typically live both in water and on land during different stages of life. They undergo metamorphosis from larvae (like tadpoles) to adults. Examples include frogs, toads, and salamanders.
+
+## Fish
+Fish are cold-blooded vertebrates that live entirely in water. They breathe through gills and move using fins. Most lay eggs and have scales covering their bodies.
+
+## Insects
+Insects are small, cold-blooded invertebrates with three body parts (head, thorax, abdomen), six legs, and often wings. They form the largest group in the animal kingdom. Examples: butterflies, ants, beetles.
+
+## Arachnids
+Arachnids are invertebrates with eight legs and two main body parts (cephalothorax and abdomen). They lack wings and antennae. Common examples include spiders, scorpions, and ticks.
+
+## Crustaceans
+Crustaceans are mostly aquatic invertebrates with hard exoskeletons, jointed legs, and segmented bodies. Examples: crabs, lobsters, shrimps, and barnacles.
+
+## Mollusks
+Mollusks are soft-bodied invertebrates, often protected by a hard shell. They include snails, clams, squids, and octopuses.
+
+## Echinoderms
+Echinoderms are marine invertebrates with radial symmetry and a spiny skin. They use a water vascular system for movement. Examples: starfish, sea urchins, and sea cucumbers.
+
+---

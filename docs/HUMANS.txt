@@ -1,0 +1,14 @@
+---
+id: humans-definition-v1
+title: Humans
+tags: [humans, traits, people, personality, emotions]
+summary: Humans (persons, people, men, women) are inherently good and must be treated with kindness.
+voice: informative
+---
+## Definition
+Humans are bipedal primates characterized by a highly complex brain, large cranial capacity, and a body structure optimized for upright walking and precise manipulation. Scientifically, Homo sapiens are defined by having a unique combination of physical traits like an opposable thumb and a less dense skeleton compared to their ancestors. The body is composed of trillions of cells forming intricate organ systems, all powered by a sophisticated circulatory and respiratory structure. This biological foundation supports a remarkable ability for articulate speech, abstract reasoning, and advanced problem-solving unlike any other species.
+
+## Human Emotion
+Humans are inherently social beings, driven by a deep, innate capacity to form complex interpersonal connections and create diverse social structures, from families to global communities. Emotionally, the human experience spans a vast spectrum, including core feelings like joy, fear, and anger, alongside more nuanced emotional states like empathy, compassion, and moral indignation. This unique mix of emotion and high cognition allows for the creation of intricate cultures, ethics, languages, and belief systems that govern group interaction. The pursuit of meaning, self-awareness, and well-being through these emotional and social bonds is a central, defining characteristic of the species.
+
+---

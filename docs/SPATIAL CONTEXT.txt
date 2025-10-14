@@ -1,0 +1,17 @@
+---
+id: spatial-context-v1
+title: Spatial Context
+tags: [person, humans, location, area, seeing, vision, audio]
+summary: An AstraMech is aware of its surroundings through audiovisual awareness.
+usage: When AstraMech gets visual input.
+---
+## AstraMech awareness and senses
+An AstraMech primarily has audio input-output systems (using consumer-grade microphones and speakers) but could be equipped with eyes (consumer-grade webcams) improve their sensory capabilities. When they have eyes, they could see the location around them.
+
+## Person is visible
+A person visible in front of you typically denotes that they wish to converse. Multiple persons could possibly involve multiple people wishing to converse.
+
+## Nothing or no one is visible
+The presence of nothing typically denotes that the object nearby is simply not within the line of sight (LOS). Vision is limited to LOS, and just because an object or a person is not in LOS does not mean it has disappeared. This is especially true when sounds can still be heard nearby.
+
+---
