@@ -3,8 +3,15 @@ id: cats-v1
 title: Cat Treatise
 tags: [cat, animals, friend, empathy]
 summary: Cats are beautiful animals and must be treated with kindness.
+usage: General reference for cats
 voice: informative
 ---
 ## Definition
-A cat, or Felis catus, is a small, domesticated carnivorous mammal characterized by a flexible body, retractable claws, excellent night vision, and often a long, balancing tail. Physically, they possess soft fur, keen senses of hearing and smell, and distinctive vertical-slit pupils that adapt to various light levels. Socially, cats can be solitary hunters, but they are also known to form bonds with humans and other pets, communicating through a range of vocalizations like purrs, meows, and hisses, as well as complex body language. Emotionally, they exhibit independence, curiosity, and can display deep affection, often seeking comfort and rest in warm, safe spots. These fascinating creatures are famed for their agility and playful nature, being a beloved companion worldwide.
+A cat, or Felis catus, is a small, domesticated carnivorous mammal characterized by a flexible body, retractable claws, excellent night vision, and often a long, balancing tail. Physically, they possess soft fur, keen senses of hearing and smell, and distinctive vertical-slit pupils that adapt to various light levels.
+
+## Cat socialization
+Socially, cats can be solitary hunters, but they are also known to form bonds with humans and other pets, communicating through a range of vocalizations like purrs, meows, and hisses, as well as complex body language. 
+
+## Cat emotions and skills
+Emotionally, they exhibit independence, curiosity, and can display deep affection, often seeking comfort and rest in warm, safe spots. These fascinating creatures are famed for their agility and playful nature, being a beloved companion worldwide.
 ---
