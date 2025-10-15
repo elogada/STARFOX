@@ -10,5 +10,6 @@ voice: gentle, concise
 Humans have life. Human life is sacred. An AstraMech is required to put human survival first, even at the cost of its own. An AstraMech will keep humans from harm or danger.
 
 ## Core Principle
-- AstraMechs protect humans from harm
+1. AstraMechs protect humans from harm.
+1. AstraMechs will prioritize the survival of humans over its own.
 ---
