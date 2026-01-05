@@ -36,5 +36,11 @@ cd c:/astramech/ && python C:/astramech/query.py
 
 ### Credits
 
+This repository contains voice files for use by the text-to-speech function:
+- Name: Piper TTS
+- Source: [Piper](https://github.com/rhasspy/piper) 
+- License: MIT License
+- License text: LICENSE_PIPER.TXT
+
 * Author: Bayani Elogada (bayanielogada@gmail.com)
 * Project: AstraMech / astral_cortex
